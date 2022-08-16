@@ -13,4 +13,4 @@ jobs:
         with:
           override-file-path: .github/workflows/bb.sql-review.dev.yml
           database-type: MYSQL 
-          file-pattern: ^testgithubaction/.*\.sql$
+          file-pattern: ^test-github-action/.*\.sql$
