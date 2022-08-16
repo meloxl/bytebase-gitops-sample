@@ -80,4 +80,4 @@ jobs:
          # override-file-path: "<Your SQL review rules configuration file path>"
           template-id: "bb.sql-review.dev"
           database-type: "MYSQL" 
-          file-pattern: "^bytebase/.*\.sql$" 
+          file-pattern: "^test-github-action/.*\.sql$" 
