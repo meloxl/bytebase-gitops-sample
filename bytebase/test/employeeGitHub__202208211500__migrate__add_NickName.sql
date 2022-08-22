@@ -1,1 +1,1 @@
-ALTER TABLE employee ADD NickName VARCHAR(255);
+ALTER TABLE employee ADD nickname VARCHAR(255);
