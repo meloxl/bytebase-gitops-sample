@@ -1,1 +1,0 @@
-ALTER TABLE employee ADD nickname VARCHAR(255) NOT NUll;
