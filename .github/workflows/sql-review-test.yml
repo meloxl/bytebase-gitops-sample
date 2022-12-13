@@ -1,7 +1,7 @@
-on:
-  pull_request:
-    paths:
-      - 'bytebase/test/**.sql'
+on: [pull_request]
+  # pull_request:
+  #   paths:
+  #     - 'bytebase/test/**/*.sql'
 
 jobs:
   sql-review-dev:
