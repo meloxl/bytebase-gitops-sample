@@ -1,1 +1,0 @@
-alter table employee ADD nickname VARCHAR(255);
