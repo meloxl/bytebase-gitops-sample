@@ -1,1 +1,0 @@
-alter table employee ADD note VARCHAR(255);
